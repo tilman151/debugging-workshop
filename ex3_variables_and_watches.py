@@ -22,7 +22,7 @@ def exercise3():
     ordered_list = list(range(20))
 
     data_frame = pd.DataFrame({"random_order": random_list, "in_order": ordered_list})
-    # TODO for PyCharm: In the "Variables" view, find data_frame and click "View as DataFrame"
+    # TODO: In the "Variables" view, find data_frame and click "View Value in Data Viewer" or "View as DataFrame"
     print(data_frame.head())
 
     # --- WATCHES ---
