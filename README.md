@@ -1,13 +1,10 @@
 # Workshop: Debug like a pro
 
-This repository is the base for my workshop "Debug like a pro". 
+This repository accompanies the workshop "Debug Like a Pro". 
 
 _The debugger is a tool that lets you inspect your code line by line as it runs, and thereby discover bugs much faster. 
-I find being able to use the debugger a very valuable skill – no matter what’s your programming level or your role. 
-There is only little you need to know about the debugger, but practicing is the key and this is what this workshop is 
-all about. I’ll show you the basic workflow and some more advanced debugger features, and you’ll have plenty of time to 
-try it out on a toy code base. Whether you’ve never heard of the debugger or used it occasionally already, this 
-workshop is for you!_
+Being able to use the debugger a very valuable skill – no matter what’s your programming level or your role. 
+This workshop takes a learning-by-doing approach and teaches the concepts and usage of the debugger on an example codebase._
 
 ## Installation
 
@@ -22,7 +19,6 @@ workshop is for you!_
 pip install -r requirements.txt
 ```
 
-## Slides
+## Attribution
 
-Please find the accompanying workshop slides here: 
-https://speakerdeck.com/stecklin/debug-like-a-pro
+The [original workshop material](https://github.com/stecklin/debugging-workshop) was prepared by Marianne Krokotsch.
