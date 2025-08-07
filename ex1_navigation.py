@@ -22,8 +22,7 @@ def exercise1():
     # Train a decision tree classifier on the data set
     classifier = tree.DecisionTreeClassifier()
     # TODO: Check out how fit() works practicing resume program, step over, step into and step out
-    # e.g. step into check_classification_targets() (line 173)
-    # e.g. set a breakpoint and resume to where the tree is build (line 322)
+    # TODO: Search for the line in sklearn where the input data X and y are validated
     classifier = classifier.fit(X, y)
     print("You're done with exercise 1!")
 
